@@ -54,4 +54,5 @@ Traversing is an O(k) operation (where "k" is the length of the key).
 Licensed under the GNU LGPL 2.1.
 
 Copyright (c) 2000 The Regents of the University of Michigan
+
 Copyright (c) 2014 J. Brandt Buckley
