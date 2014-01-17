@@ -1,0 +1,6 @@
+*.dSYM
+*.o
+*.d
+/ptest
+*.so
+*.a
